@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+:root {
+    --color-text: #4B5563;
+    --color-red: #BB2019;
+    --color-blue: #F3F5F4;
+    --color-pink:#FAEDED;
+}
+
+body {
+    font-family: "Nunito Sans", sans-serif;
+}
+
+a{
+    list-style-type: none;
+    color: var(--color-red);
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
